@@ -7,5 +7,8 @@ Learn to;
 > Using container IDEs
 
 Try them out:
-[]()
-[]()
+
+CircleCI | Kubernetes | Azure
+---------|------------|-------
+[]() | []() | []()
+
